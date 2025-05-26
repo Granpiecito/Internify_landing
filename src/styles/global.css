@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+/*Body template theme*/
+html {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    color: #080708;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.body-theme
+{
+    background: linear-gradient(180deg, #000000 50%, #080708 100%);
+}
+
+/*text colors*/
+h2,p,span,a,small{
+    color: white;
+}
