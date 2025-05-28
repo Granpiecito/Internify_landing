@@ -1,0 +1,43 @@
+{
+  "title": "InternifyU",
+  "description": "Sistema de gestión y control de pasantias",
+  "social_image": "/1200x630.jpg",
+  "base_url": "https://astro-theme.blackspike.com",
+  "demo": {
+    "title": "Unirse",
+    "content": "<strong>Únete a nuestras empresas afiliadas </strong>, y contribuye a formar a los mejores profesionales del futuro, mientras accedes a talento calificado que impulsa el crecimiento de tu organización.",
+    "cta": "Agendar reunión"
+  },
+  "theme_color": "#18181b",
+  "nav": [
+    {
+      "title": "Servicios",
+      "link": "/#services"
+    },
+
+    {
+      "title": "Precios",
+      "link": "/#pricing"
+    },
+    {
+      "title": "FAQ",
+      "link": "/#faq"
+    },
+    {
+      "title": "Novedades",
+      "link": "/#newsletter"
+    }
+  ],
+
+  "social_links": [
+
+    {
+      "title": "GitHub",
+      "link": "https://github.com/granpiecito/"
+    },
+    {
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/leroy-perryman-aleman-4925b2234"
+    }
+  ]
+}

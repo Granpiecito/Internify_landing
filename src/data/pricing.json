@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Básico",
+    "tag": "Popular",
+    "content": "Plan mensual",
+    "cta": "Pruébalo gratis",
+    "price": 2800,
+    "services": [
+      { "item": "5 vacantes por mes" },
+      { "item": "Acceso básico a estudiantes" },
+      { "item": "Contacto por correo" },
+      { "item": "Servicios básicos incluidos" },
+      { "item": "Cancela en cualquier momento" }
+    ]
+  },
+  {
+    "title": "Premium",
+    "tag": "Destacado",
+    "content": "Plan mensual",
+    "cta": "Pruébalo gratis",
+    "price": 4000,
+    "services": [
+      { "item": "15 vacantes destacadas al mes" },
+      { "item": "Acceso completo y filtros avanzados" },
+      { "item": "Top 10 candidatos del mes" },
+      { "item": "Soporte con prioridad" },
+      { "item": "Cancela en cualquier momento" }
+    ]
+  },
+  {
+    "title": "Empresarial",
+    "tag": "Mejor Precio",
+    "content": "Plan mensual",
+    "cta": "Adquirir ahora",
+    "price": 5500,
+    "services": [
+      { "item": "Vacantes ilimitadas" },
+      { "item": "Máxima visibilidad" },
+      { "item": "Acceso VIP a candidatos" },
+      { "item": "Publicidad en redes y eventos" },
+      { "item": "Soporte VIP prioritario" }
+    ]
+  }
+]

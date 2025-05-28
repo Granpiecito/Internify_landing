@@ -1,47 +1,57 @@
-# Astro Starter Kit: Minimal
 
-```sh
-pnpm create astro@latest -- --template minimal
-```
+## License
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+Theme and 3D images are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/).
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Created by blackspike [blackspike design](https://www.blackspike.com) – a web design & development team specialising in Astro, Vue, Nuxt & Wordpress websites
 
-## 🚀 Project Structure
+## Astro 5 Features
 
-Inside of your Astro project, you'll see the following folders and files:
+- [Image component](https://docs.astro.build/en/guides/images/#display-optimized-images-with-the-image--component) for optimised AVIF images
+- All-[JSX](https://docs.astro.build/en/reference/astro-syntax/) native astro components
+- SVGs imported as [SVG components](https://docs.astro.build/en/guides/images/#svg-components)
+- JSON-powered content (easy to edit UI text or hook up a CMS!)
+- Experimental [Fonts API](https://docs.astro.build/en/reference/experimental-flags/fonts/)
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## CSS & HTML Features
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- [Tailwind 4](https://tailwindcss.com/blog/tailwindcss-v4)
+- HTML modal dialog
+- JS-free scroll-linked animations
+- JS-free exclusive accordions with details/summary (animated!)
+- Container queries
+- Linear easing for bouncing / springing
+- Text wrap pretty / balance
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## JS Features
 
-Any static assets, like images, can be placed in the `public/` directory.
+- [swiper.js](https://swiperjs.com/) carousel
 
-## 🧞 Commands
+
+
+## Credits
+
+- Fake logos by [uicontent.co](https://uicontent.co/svg-dummy-logo/)
+- Quote avatar person by [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
+- Misc icons and logo from [icones.js.org](https://icones.js.org/) by [@antfu](https://github.com/antfu)
+- Template by [blackspike.com](https://www.blackspike.com)
+- Carousel powered by [swiperjs.com](https://swiperjs.com/)
+- Inter font by [rsms.me](https://rsms.me/inter/)
+
+## Tags
+
+#tailwind #tailwind4 #astro #landingPage #css #html #swiper #dark #theme
+
+## Commands
 
 All commands are run from the root of the project, from a terminal:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
 | `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
+| `pnpm run dev`             | Starts local dev server at `localhost:4321`      |
+| `pnpm run build`           | Build your production site to `./dist/`          |
+| `pnpm run preview`         | Preview your build locally, before deploying     |
+| `pnpm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `pnpm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
