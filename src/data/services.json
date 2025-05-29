@@ -1,29 +1,29 @@
 [
   {
-    "title": "We create timeless visual identities for modern brands.",
-    "content": "<strong>Great companies are built on their ability to adapt and grow.</strong> We create brands that will adapt and flourish no matter where the market takes you.",
-    "cta": "Call us about branding",
+    "title": "Ofrecemos una plataforma para gestionar y controlar mejor las pasantías.",
+    "content": "<strong>Optimiza la gestión de tus programas de pasantías.</strong> Nuestra plataforma te brinda las herramientas necesarias para supervisar, evaluar y asegurar el éxito de cada pasante.",
+    "cta": "Agenda una demostración",
     "image": "/content-images/blackspike-wallpaper-01.avif",
     "image_alt": ""
   },
   {
-    "title": "We design websites that drive conversions and delight users.",
-    "content": "<strong>Experts in imagining future interfaces and experiences.</strong> From UX to creative to analytics, we are there every step of the way.",
-    "cta": "Book a website review call",
+    "title": "Diseñamos experiencias digitales que optimizan la gestión de pasantías y mejoran la experiencia de estudiantes y empresas.",
+    "content": "<strong>Impulsa tu marca empleadora con pasantías exitosas.</strong> Diseñamos experiencias memorables para pasantes que mejoran tu reputación y atraen talento futuro.",
+    "cta": "Mejora tu marca empleadora",
     "image": "/content-images/blackspike-wallpaper-02.avif",
     "image_alt": ""
   },
   {
-    "title": "Design across all dimensions",
-    "content": "<strong>Outstanding 3D design and concepts.</strong> We provide top-of-the-line 3D modelling services delivered by our skilled team of 3D artists.",
-    "cta": "Our 3D Services",
-    "image": "/content-images/blackspike-wallpaper-03.avif",
+    "title": "Ofrecemos una plataforma escalable que crece con tu empresa.",
+    "content": "<strong>Plataforma adaptable a tus necesidades cambiantes.</strong> Internify está diseñado para escalar, manejando eficientemente programas de pasantías de cualquier tamaño y complejidad.",
+    "cta": "Descubre más",
+    "image": "/content-images/blackspike-wallpaper-02.avif",
     "image_alt": ""
   },
   {
-    "title": "Apps for all devices and seasons",
-    "content": "<strong>We help companies supercharge their apps by providing world-class, effective design.</strong> Best practice design processes for your products",
-    "cta": "Arrange an app demo",
+    "title": "Automatiza la gestión de tus programas de pasantías",
+    "content": "<strong>Simplifica tu proceso de contratación de pasantes.</strong> Nuestra plataforma automatiza tareas repetitivas, desde la publicación de ofertas hasta el seguimiento de candidaturas.",
+    "cta": "Ver cómo funciona",
     "image": "/content-images/blackspike-wallpaper-04.avif",
     "image_alt": ""
   }

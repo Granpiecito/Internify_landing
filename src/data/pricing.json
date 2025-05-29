@@ -4,7 +4,7 @@
     "tag": "Popular",
     "content": "Plan mensual",
     "cta": "Pruébalo gratis",
-    "price": 2800,
+    "price": 3200,
     "services": [
       { "item": "5 vacantes por mes" },
       { "item": "Acceso básico a estudiantes" },
@@ -18,7 +18,7 @@
     "tag": "Destacado",
     "content": "Plan mensual",
     "cta": "Pruébalo gratis",
-    "price": 4000,
+    "price": 4300,
     "services": [
       { "item": "15 vacantes destacadas al mes" },
       { "item": "Acceso completo y filtros avanzados" },
@@ -32,7 +32,7 @@
     "tag": "Mejor Precio",
     "content": "Plan mensual",
     "cta": "Adquirir ahora",
-    "price": 5500,
+    "price": 5800,
     "services": [
       { "item": "Vacantes ilimitadas" },
       { "item": "Máxima visibilidad" },
