@@ -1,14 +1,14 @@
 [
   {
-    "image": "../src/assets/theme-images/of1.jpeg"
+    "image": "../public/content-images/of1.jpeg"
   },
   {
-    "image": "../src/assets/theme-images/of2.jpeg"
+    "image": "../public/content-images/of2.jpeg"
   },
   {
-    "image": "../src/assets/theme-images/of3.jpeg"
+    "image": "../public/content-images/of3.jpeg"
   },
   {
-    "image": "../src/assets/theme-images/of4.jpeg"
+    "image": "../public/content-images/of4.jpeg"
   }
 ]
