@@ -1,14 +1,14 @@
 [
   {
-    "image": "../public/content-images/of1.jpeg"
+    "image": "/of1.jpeg"
   },
   {
-    "image": "../public/content-images/of2.jpeg"
+    "image": "/of2.jpeg"
   },
   {
-    "image": "../public/content-images/of3.jpeg"
+    "image": "/of3.jpeg"
   },
   {
-    "image": "../public/content-images/of4.jpeg"
+    "image": "/of4.jpeg"
   }
 ]
